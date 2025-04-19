@@ -1,0 +1,40 @@
+# MQL5 Compiled Files
+*.ex5
+*.ex4
+*.dll
+*.exe
+
+# MQL5 Generated Files
+*.mqh.metadata.txt
+*.mqproj
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# MT5 Specific
+/logs/
+/files/
+/history/
+/tester/
+/MQL5/Presets/
+/MQL5/Logs/
+/MQL5/Files/
+/MQL5/Libraries/
+
+# Optimizations and testing
+*.opt
+*.dat
+
+# Backups
+*_old
+*.bak
+*.old
+
+# Visual Studio Code
+.vscode/
+
+# Editor temporary files
+*~
+*.[Bb]ak
+*.swp 
